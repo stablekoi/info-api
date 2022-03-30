@@ -1,0 +1,15 @@
+{
+  "name": "StableKoi Exchange",
+  "schemaPath": "schema.graphql",
+  "extensions": {
+    "endpoints": {
+      "StableKoi Exchange": {
+        "url": "https://app.stablekoi.com/subgraphs/name/stablekoi/exchange",
+        "headers": {
+          "user-agent": "JS GraphQL"
+        },
+        "introspect": false
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Nervos Godwoken Chain Blocks",
+  "schemaPath": "schema.graphql",
+  "extensions": {
+    "endpoints": {
+      "Nervos Godwoken Chain Blocks": {
+        "url": "https://www.yokaiswap.com/subgraphs/name/yokaiswap/blocks",
+        "headers": {
+          "user-agent": "JS GraphQL"
+        },
+        "introspect": false
+      }
+    }
+  }
+}
